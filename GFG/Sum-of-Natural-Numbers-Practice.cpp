@@ -7,6 +7,5 @@ int main() {
     int n;
     cin >> n;
     cout << sum(n);
-    
     return 0;
 }
