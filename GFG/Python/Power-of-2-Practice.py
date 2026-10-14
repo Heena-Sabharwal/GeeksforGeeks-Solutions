@@ -1,4 +1,6 @@
-class Solution:
-    def isPowerofTwo(self, n):
-        # code here
-        return n > 0 and (n & (n - 1)) == 0
+class Solution {
+  public:
+    bool isPowerofTwo(int n) {
+        return n > 0 && (n & (n - 1)) == 0;
+    }
+};
