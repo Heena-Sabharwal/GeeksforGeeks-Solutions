@@ -9,7 +9,7 @@ A collection of my solutions to coding problems from **GeeksforGeeks (GFG)**, im
 - 🧠 Practice covering data structures, algorithms, and problem-solving techniques.
 - 📈 Continuously updated as I solve new problems.
 - 🔗 Solutions are uploaded and updated using my personal **GFG GitHub Sync** Chrome extension.
-- The repository also used for **testing** the **GFG GitHub sync chrome extension**, and might be hard to understand due to regular feature updates in the chrome extension. 
+- The repository is also used for **testing** the **GFG GitHub Sync** chrome extension, and might be hard to understand due to regular feature updates in the chrome extension. 
 
 ## 🛠️ Tech Stack
 
