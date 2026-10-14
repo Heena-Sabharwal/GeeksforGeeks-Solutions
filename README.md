@@ -1,4 +1,4 @@
-# GeeksforGeeks Solutions 🚀
+# GeeksforGeeks Solutions
 
 A collection of my solutions to coding problems from **GeeksforGeeks (GFG)**, implemented primarily in C++. This repository documents my problem-solving journey, algorithmic learning, and progress in Data Structures and Algorithms (DSA).
 
@@ -9,6 +9,7 @@ A collection of my solutions to coding problems from **GeeksforGeeks (GFG)**, im
 - 🧠 Practice covering data structures, algorithms, and problem-solving techniques.
 - 📈 Continuously updated as I solve new problems.
 - 🔗 Solutions are uploaded and updated using my personal **GFG GitHub Sync** Chrome extension.
+- The repository also used for **testing** the **GFG GitHub sync chrome extension**, and might be hard to understand due to regular feature updates in the chrome extension. 
 
 ## 🛠️ Tech Stack
 
